@@ -1,0 +1,26 @@
+{
+  "name": "simditor-clearhtml",
+  "description": "Add clear html support for Simditor.",
+  "version": "0.1.1",
+  "main": "lib/simditor-clearhtml.js",
+  "homepage": "https://github.com/uuke/simditor-clearhtml",
+  "author": {
+    "name": "Zhixiang Zhu",
+    "email": "zzxiang21cn@hotmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/uuke/simditor-clearhtml.git"
+  },
+  "bugs": {
+    "url": "https://github.com/uuke/simditor-clearhtml/issues"
+  },
+  "scripts": {
+    "test": "grunt test --verbose"
+  },
+  "devDependencies": {
+    "grunt": "0.x",
+    "grunt-contrib-sass": "0.x"
+  },
+  "keywords": ["simditor", "clearhtml"]
+}
