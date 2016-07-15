@@ -1,7 +1,7 @@
 @charset "UTF-8";
 @font-face {
   font-family: 'simditor-clearhtml';
-  src: url("fonts/simditor-clearhtml.ttf?8xd6wo") format("truetype"), url("fonts/simditor-clearhtml.woff?8xd6wo") format("woff"), url("fonts/simditor-clearhtml.svg?8xd6wo#simditor-clearhtml") format("svg");
+  src: url("../fonts/simditor-clearhtml.ttf?8xd6wo") format("truetype"), url("../fonts/simditor-clearhtml.woff?8xd6wo") format("woff"), url("../fonts/simditor-clearhtml.svg?8xd6wo#simditor-clearhtml") format("svg");
   font-weight: normal;
   font-style: normal;
 }
